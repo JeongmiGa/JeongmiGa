@@ -39,6 +39,7 @@ Built a machine learning project to detect early business closure risk signals f
 ### Team Project
 **Financial-NLP-Analysis-System**  
 Built a financial NLP analysis agent with a retrieval-based pipeline for question answering over financial documents.  
+
 **My Role**
 - Designed and implemented the RAG pipeline
 - Refined user queries into embedding-friendly forms for retrieval
