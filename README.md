@@ -8,7 +8,6 @@ I am interested in building practical AI systems, retrieval-based pipelines, and
 ## 🎓 Education
 - **B.S. in [Industrial and Information Systems Engineering](https://iise.ssu.ac.kr/)**, Soongsil University  
   `Mar. 2022 – Aug. 2026`  
-  GPA: **4.21 / 4.5**
 
 - **Data Science & AI Trainee**, [K-Digital Training Program, Seoul National University](https://www.snukdt.com/introduce/introduce.php)  
   `Dec. 22, 2025 – current`
