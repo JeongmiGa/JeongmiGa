@@ -38,7 +38,7 @@ Team project focused on financial text analysis and retrieval-based question ans
 - Structured the retrieval workflow to improve response quality and document grounding
 
 **Tech:** Python, NLP, RAG, Embeddings, LLM API, Retrieval Pipeline Design  
-**Repo:** _Organization repository_
+**Repo:** <https://github.com/Fintech-Team-12/Financial-NLP-Analysis-System>
 
 ---
 
