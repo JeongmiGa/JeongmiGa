@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Jeongmi Ga
+# Jeongmi Ga
+### AI, Finance, and Research-Driven Problem Solving
 
-AI, finance, and research-driven problem solving.  
-I am interested in building practical AI systems, retrieval-based pipelines, and data-driven models.
+I am interested in building practical AI systems, retrieval-based pipelines, and data-driven models for real-world decision making.
 
 ---
 
@@ -16,16 +16,16 @@ I am interested in building practical AI systems, retrieval-based pipelines, and
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-008080?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-FF4B4B?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E8F0FE?style=for-the-badge&logo=python&logoColor=4C6EF5)
+![R](https://img.shields.io/badge/R-EAF4FF?style=for-the-badge&logo=r&logoColor=5B8DEF)
+![SQL](https://img.shields.io/badge/SQL-F3ECFF?style=for-the-badge&logo=postgresql&logoColor=8E75FF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EAFBF3?style=for-the-badge&logo=scikitlearn&logoColor=4CAF7D)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFF0F6?style=for-the-badge&logo=pytorch&logoColor=E57399)
+![NLP](https://img.shields.io/badge/NLP-FFF8E8?style=for-the-badge&logoColor=C9A227)
+![RAG](https://img.shields.io/badge/RAG-F4EEFF?style=for-the-badge&logoColor=9C6ADE)
+![Embeddings](https://img.shields.io/badge/Embeddings-E8FBFB?style=for-the-badge&logoColor=3AAFA9)
+![API Integration](https://img.shields.io/badge/API%20Integration-FFF3E8?style=for-the-badge&logoColor=F4A261)
+![GitHub](https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=666666)
 
 ---
 
