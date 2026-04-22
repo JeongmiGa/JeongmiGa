@@ -16,14 +16,16 @@ I am interested in building practical AI systems, retrieval-based pipelines, and
 ---
 
 ## 🛠 Tech Stack
-**Languages & Analysis**  
-`Python` `R` `SQL` `Data Analysis` `Visualization`
-
-**AI / ML**  
-`Machine Learning` `Deep Learning` `NLP` `RAG` `Embeddings` `Ranking Logic`
-
-**Tools & Implementation**  
-`scikit-learn` `pandas` `SHAP` `GitHub` `API Integration`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-008080?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-FF4B4B?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -49,7 +51,7 @@ Team project for financial text analysis and retrieval-based question answering.
 
 ## 🔬 Research Highlights
 - Undergraduate Researcher, Sustainable Green Design Lab
-- Publication: *Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping* (*Sustainability*, 2025)
+- Publication: [*Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping*](https://www.mdpi.com/3432744) (*Sustainability*, 2025)
 - Poster Presentation, 2024 Conference of the Korean Institute of Industrial Engineers
 - Oral Presentation, 2025 Summer Conference of the Korean Society for Life Cycle Assessment
 
