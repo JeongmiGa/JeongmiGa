@@ -6,11 +6,11 @@ I am interested in building practical AI systems, retrieval-based pipelines, and
 ---
 
 ## 🎓 Education
-- **B.S. in Industrial and Information Systems Engineering**, Soongsil University  
+- **B.S. in [Industrial and Information Systems Engineering](https://iise.ssu.ac.kr/)**, Soongsil University  
   `Mar. 2022 – Aug. 2026`  
   GPA: **4.21 / 4.5**
 
-- **Data Science & AI Trainee**, K-Digital Training Program, Seoul National University  
+- **Data Science & AI Trainee**, [K-Digital Training Program, Seoul National University](https://www.snukdt.com/introduce/introduce.php)  
   `Dec. 22, 2025 – current`
 
 ---
@@ -50,7 +50,7 @@ Team project for financial text analysis and retrieval-based question answering.
 ---
 
 ## 🔬 Research Highlights
-- Undergraduate Researcher, Sustainable Green Design Lab
+- Undergraduate Researcher, [Sustainable Green Design Lab](https://www.sgdlab.net/)
 - Publication: [*Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping*](https://www.mdpi.com/3432744) (*Sustainability*, 2025)
 - Poster Presentation, 2024 Conference of the Korean Institute of Industrial Engineers
 - Oral Presentation, 2025 Summer Conference of the Korean Society for Life Cycle Assessment
