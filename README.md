@@ -33,12 +33,12 @@ I am interested in building practical AI systems, retrieval-based pipelines, and
 
 ### Personal Project
 **Small Business Closure Risk Prediction**  
-Machine learning project for early detection of business closure risk signals using MDIS survey data.  
+Built a machine learning project to detect early business closure risk signals from small business survey data and interpret the results through feature importance and SHAP.  
 [View Repository](https://github.com/JeongmiGa/small-business-closure-risk-prediction)
 
 ### Team Project
 **Financial-NLP-Analysis-System**  
-Team project for financial text analysis and retrieval-based question answering.  
+Built a financial NLP analysis agent with a retrieval-based pipeline for question answering over financial documents.  
 **My Role**
 - Designed and implemented the RAG pipeline
 - Refined user queries into embedding-friendly forms for retrieval
@@ -51,9 +51,8 @@ Team project for financial text analysis and retrieval-based question answering.
 
 ## 🔬 Research Highlights
 - Undergraduate Researcher, [Sustainable Green Design Lab](https://www.sgdlab.net/)
-- Publication: [*Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping*](https://www.mdpi.com/3432744) (*Sustainability*, 2025)
-- Poster Presentation, 2024 Conference of the Korean Institute of Industrial Engineers
-- Oral Presentation, 2025 Summer Conference of the Korean Society for Life Cycle Assessment
+- Publication: [*Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping*](https://www.mdpi.com/3432744)
+- Poster and oral presentation experience in sustainability-related research
 
 ---
 
@@ -61,7 +60,6 @@ Team project for financial text analysis and retrieval-based question answering.
 - Human-centered AI
 - AI for finance
 - Retrieval-based AI systems
-- Research-driven problem solving
 
 ---
 
