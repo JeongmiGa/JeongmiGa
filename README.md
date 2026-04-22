@@ -1,83 +1,48 @@
-# Hi, I'm Jeongmi Ga
+# Jeongmi Ga
 
-AI, finance, and research-driven problem solving.  
-I am interested in building practical AI systems, retrieval-based pipelines, and data-driven models that connect technical analysis with real-world decision making.
+AI, finance, and research-driven problem solving.
 
 ---
 
-## About Me
+## About
 - B.S. in Industrial and Information Systems Engineering, Soongsil University
-- GPA: 4.21/4.5
-- Interested in AI, finance, human-centered AI, and research-based problem solving
-- Experienced in machine learning, data analysis, RAG pipeline design, and research projects
+- Interested in AI, finance, human-centered AI, and practical ML systems
+- Experienced in machine learning, retrieval-based AI, and research projects
 
 ---
 
-## Featured Personal Project
-### Small Business Closure Risk Prediction
-Machine learning project for early detection of closure risk signals in small businesses using MDIS survey data.
+## Featured Projects
 
-- Built a risk-signal prediction pipeline based on survey and business operation features
-- Compared multiple modeling approaches for imbalanced data
-- Interpreted results with feature importance and SHAP
-- Connected model outputs to policy implications
+### Personal Project
+**Small Business Closure Risk Prediction**  
+Machine learning project for early detection of business closure risk signals using MDIS survey data.  
+[View Repository](https://github.com/JeongmiGa/small-business-closure-risk-prediction)
 
-**Tech:** Python, pandas, scikit-learn, matplotlib, seaborn, SHAP  
-**Repo:** <https://github.com/JeongmiGa/small-business-closure-risk-prediction>
-
----
-
-## Featured Team Project
-### Financial-NLP-Analysis-System
-Team project focused on financial text analysis and retrieval-based question answering.
-
-**My Role**
-- Designed and implemented the RAG pipeline
-- Refined user queries into embedding-friendly representations for retrieval
-- Designed retrieval and ranking logic for more relevant document selection
-- Structured the retrieval workflow to improve response quality and document grounding
-
-**Tech:** Python, NLP, RAG, Embeddings, LLM API, Retrieval Pipeline Design  
-**Repo:** <https://github.com/Fintech-Team-12/Financial-NLP-Analysis-System>
+### Team Project
+**Financial-NLP-Analysis-System**  
+Team project for financial text analysis and retrieval-based question answering.  
+**My Role:** Designed and implemented the RAG pipeline, refined user queries for embedding-based retrieval, and designed retrieval and ranking logic.  
+[View Repository](https://github.com/Fintech-Team-12/Financial-NLP-Analysis-System)
 
 ---
 
 ## Research Highlights
 - Undergraduate Researcher, Sustainable Green Design Lab
 - Publication: *Digital Enablers of Sustainability: Insights from Sustainable Development Goals (SDGs) Research Mapping* (*Sustainability*, 2025)
-- Poster Presentation, 2024 Conference of the Korean Institute of Industrial Engineers
-- Oral Presentation, 2025 Summer Conference of the Korean Society for Life Cycle Assessment
+- Poster Presentation, 2024 KIIE Conference
+- Oral Presentation, 2025 Korean Society for Life Cycle Assessment
 
 ---
 
 ## Skills
-### Languages & Analysis
-- Python, R, SQL
-- Data Analysis, Visualization, Statistical Modeling
+**Languages & Analysis**  
+Python, R, SQL, Data Analysis, Visualization
 
-### AI / ML
-- Machine Learning
-- Deep Learning
-- NLP
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and Ranking Logic
+**AI / ML**  
+Machine Learning, Deep Learning, NLP, RAG, Embeddings, Ranking Logic
 
-### Tools & Implementation
-- scikit-learn
-- pandas
-- matplotlib / seaborn
-- SHAP
-- Git / GitHub
-- API-based model integration
-
----
-
-## Interests
-- Human-centered AI
-- AI for finance
-- Retrieval-based AI systems
-- User-centered AI evaluation and improvement
-- Research-driven problem solving
+**Tools**  
+scikit-learn, pandas, SHAP, GitHub, API-based model integration
 
 ---
 
